@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans';
+}
+.container{
+    width: 1140px;
+    height: 735px;
+    /* border: 1px solid #000; */
+    margin: 0 auto;
+}
+h1,h2,h3{
+    color: rgb(21, 22, 22);
+}
+p{
+    color: rgb(180, 180, 180);
+    font-size: 16px;
+    font-weight: 400;
+}
+.btn-primary{
+    background: rgb(255, 67, 20);
+    padding: 17px 25px;
+    border-radius: 5px;
+    border: 1px solid #000;
+}
+/* Banner Part */
+.main-banner{
+    width: 100%;
+    background-image: url("./images/banner/banner2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.navigation{
+    width: 100%;
+    padding-top: 30px;
+    display: inline;
+}
+.navigation nav{
+    display: flex;
+    justify-content: space-between;
+}
+.navigation nav ul{
+    display: flex;
+}
+.navigation nav li{
+    font-weight: 600;
+    list-style: none;
+    padding: 17px 25px;
+    border-radius: 5px;
+    color: #000;
+    margin-left: 5px;
+}
+.navigation nav li:hover{
+    background-color: rgb(255, 67, 20);
+    transition: 1s;
+    color: #fff;
+}
+.navigation nav h1{
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(4, 151, 236);
+    padding-top: 2px;
+}
+.navigation nav h1 span{
+    color: rgb(255, 67, 20);
+}
+.navigation nav ul button{
+    margin-left: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: inherit;
+}
+.navigation nav ul button:hover{
+    background: rgb(255, 67, 20);
+    transition: 1s;
+    color: #fff;
+    border-color: #fff;
+}
+.navigation img{
+    padding-left: 550px;
+}
+.navigation nav li
+.navigation nav li
+#FF4314
