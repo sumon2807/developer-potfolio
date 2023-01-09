@@ -84,3 +84,22 @@ p{
 }
 /* About section */
 
+.about-content{
+    display: flex;
+}
+.about-element{
+    border: 1px solid;
+    margin: 15px;
+    padding: 30px;
+}
+.about-element img{
+    padding-bottom: 20px;
+}
+.about-element h3{
+    padding-bottom: 20px;
+}
+.about-element p{
+    text-align: left;
+}
+.about-element
+.about-element
